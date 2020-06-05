@@ -1,5 +1,5 @@
 {
-  "homepage": "http://knitzz.github.io/compileAll",
+  "homepage": "http://knitzz.github.io/compileAll" ,
   "name": "mycompiler",
   "version": "0.1.0",
   "private": true,
