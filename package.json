@@ -1,6 +1,6 @@
 {
-  "homepage": "http://knitzz.github.io/compileAll" ,
-  "name": "compileAll",
+  "homepage": "http://knitzz.github.io/compileall" ,
+  "name": "compileall",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
