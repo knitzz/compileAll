@@ -22,7 +22,7 @@
     "react-dom": "^16.13.1",
     "react-google-login": "^5.1.10",
     "react-prism": "^4.3.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-simple-code-editor": "^0.11.0"
   },
   "scripts": {
